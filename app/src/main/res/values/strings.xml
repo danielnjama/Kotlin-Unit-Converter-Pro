@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Unit Converter Pro</string>
+    <string name="convert_meters_to_centimeters">Convert Meters to Centimeters</string>
+    <string name="meters_to_convert">Meters to convert</string>
+    <string name="convert_meters_to_cm">Convert Meters to CM</string>
+    <string name="convert_cm_to_meters">Convert CM to Meters</string>
+    <string name="centimeters_to_convert">Centimeters to Convert</string>
+    <string name="convert_centimeters_to_meters">Convert Centimeters to Meters</string>
+</resources>
